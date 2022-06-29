@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "2022.6.1",
+  "private": true,
+  "scripts": {
+    "local": "vite --mode local",
+    "start": "vite --mode development",
+    "build": "tsc && vite build",
+    
+  },
+  "dependencies": {
+    "rollup-plugin-polyfill-node": "^0.8.0",
+    "vite-tsconfig-paths": "^3.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-node-globals": "^1.4.0"
+  }
+}
