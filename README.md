@@ -5,5 +5,5 @@ A collection of useful snippets, conecpts, projects or whatever else might be sm
 
 ## Changelog
 
-### 2021-06-29
+### 2022-06-29
 Added a CRA to Vite migration guide
